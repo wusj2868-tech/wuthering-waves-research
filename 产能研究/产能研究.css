@@ -83,11 +83,8 @@ blockquote {
 }
 .version-card table { margin: 0; font-size: 12px; }
 .version-card th, .version-card td { padding: 7px 8px; }
-.version-card th:nth-child(1) { width: 12%; }
-.version-card th:nth-child(2) { width: 64%; }
-.version-card th:nth-child(3), .version-card th:nth-child(4),
-.version-card td:nth-child(3), .version-card td:nth-child(4) {
-  width: 12%;
+.version-card th, .version-card td {
+  width: 33.333%;
   text-align: center;
   white-space: nowrap;
 }
