@@ -1,0 +1,1046 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>《鸣潮》版本产能拆解（1.0—3.7）</title>
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="产能研究.css" />
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">《鸣潮》版本产能拆解（1.0—3.7）</h1>
+</header>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#鸣潮版本产能拆解1037"
+id="toc-鸣潮版本产能拆解1037">《鸣潮》版本产能拆解（1.0—3.7）</a>
+<ul>
+<li><a href="#结论先看" id="toc-结论先看">结论先看</a></li>
+<li><a href="#0-统计口径与置信度" id="toc-0-统计口径与置信度">0.
+统计口径与置信度</a></li>
+<li><a href="#1-角色数量稀有度与模组复杂度"
+id="toc-1-角色数量稀有度与模组复杂度">1.
+角色：数量、稀有度与模组复杂度</a></li>
+<li><a href="#2-剧情潮汐主线时长与任务拆分"
+id="toc-2-剧情潮汐主线时长与任务拆分">2.
+剧情：潮汐主线时长与任务拆分</a></li>
+<li><a href="#3-地图永久区域资源与面积边界"
+id="toc-3-地图永久区域资源与面积边界">3.
+地图：永久区域、资源与面积边界</a></li>
+<li><a href="#4-boss全息战略与敌人图鉴"
+id="toc-4-boss全息战略与敌人图鉴">4. Boss：全息战略与敌人图鉴</a></li>
+<li><a href="#5-武器与声骸库存与版本新增"
+id="toc-5-武器与声骸库存与版本新增">5.
+武器与声骸：库存与版本新增</a></li>
+<li><a href="#6-研究解读与下一步" id="toc-6-研究解读与下一步">6.
+研究解读与下一步</a></li>
+</ul></li>
+</ul>
+</nav>
+<h1 id="鸣潮版本产能拆解1037">《鸣潮》版本产能拆解（1.0—3.7）</h1>
+<blockquote>
+<p>研究更新：2026-10-26（UTC+8）｜覆盖截至
+3.7「镜锁妄世，心照红尘」的<strong>正式上线</strong>内容。<br>
+目的：把版本更新中可比较的角色、剧情、地图、Boss、武器与声骸产出拆成可复核指标，而非评价角色强度或游戏质量。</p>
+</blockquote>
+<h2 id="结论先看">结论先看</h2>
+<table>
+<thead>
+<tr>
+<th>模块</th>
+<th>截至 3.7 的可比结论</th>
+<th>推荐作为产能指标</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>角色</td>
+<td>共 57 名角色条目（5 星 45、4 星 12）；开服后 21 个更新版本新增 40
+名，平均 <strong>1.90 名/版</strong>；其中 37 名为 5 星</td>
+<td>新角色数、5/4 星结构、特殊形态/新机制</td>
+</tr>
+<tr>
+<td>剧情</td>
+<td>潮汐任务正常游玩录屏合计约 <strong>71 小时 28
+分</strong>；版本间差异很大</td>
+<td>主线时长；伴星/危行/奇谭另列，不能混加</td>
+</tr>
+<tr>
+<td>地图</td>
+<td>新增永久区域/大型场景至少 15 次；官方<strong>未公布可换算的 km²
+面积</strong></td>
+<td>永久区域/子区数、探索机制、资源类型</td>
+</tr>
+<tr>
+<td>Boss</td>
+<td>常驻「全息战略」可挑战 Boss 共 <strong>23 名</strong>：强袭 6、幻痛
+10、同步 5、演武 2</td>
+<td>全息 Boss 数与新增节奏；不把普通敌人图鉴条目混入</td>
+</tr>
+<tr>
+<td>武器与声骸</td>
+<td>Encore Release 快照：武器 124 把、合鸣效果 37 套；3.0—3.7 新增 21 把
+5 星武器、16 套合鸣效果</td>
+<td>新 5 星武器数、合鸣套数、声骸条目数（另列）</td>
+</tr>
+</tbody>
+</table>
+<h2 id="0-统计口径与置信度">0. 统计口径与置信度</h2>
+<ol type="1">
+<li><strong>角色</strong>：按版本内首次实装、可操作的共鸣者计数；复刻不计。漂泊者的新属性形态不算新角色，单列为“战斗模块迭代”。可唤取的
+SP 角色“秧秧·玄翎”计为独立角色。</li>
+<li><strong>剧情时长</strong>：取 B
+站完整流程录屏各分段的时长加总，代表“正常游玩体验时长”（含移动、战斗、操作，可能含少量菜单），<strong>不是纯台词或
+CG 时长</strong>；建议视作约 ±10% 的代理指标。</li>
+<li><strong>地图面积</strong>：库洛未公开地图坐标比例或可换算面积，且游戏含分层、地下、独立场景。故本报告不填写虚假的
+km²；用永久区域/子区与资源机制衡量地图产能。</li>
+<li><strong>Boss</strong>：以官方「全息战略」挑战池为核心；Encore
+的怪物图鉴中“高阶敌人”条目含幻象、回想等变体，不能直接等同独立 Boss
+数。</li>
+<li><strong>数据源优先级</strong>：库洛官网版本说明 &gt;
+官方渠道转帖/应用商店 &gt; Encore Release 数据库 &gt; B
+站完整录屏与攻略。所有 B 站创作者统计均只作交叉参考。</li>
+</ol>
+<hr />
+<h2 id="1-角色数量稀有度与模组复杂度">1.
+角色：数量、稀有度与模组复杂度</h2>
+<h3 id="11-各版本首次实装角色">1.1 各版本首次实装角色</h3>
+<table>
+<thead>
+<tr>
+<th>版本</th>
+<th>新增 5 星共鸣者</th>
+<th>新增 4 星共鸣者</th>
+<th style="text-align: right;">新增数</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0</td>
+<td>漂泊者、忌炎、吟霖、卡卡罗、安可、鉴心、凌阳、维里奈</td>
+<td>秧秧、白芷、炽霞、散华、秋水、丹瑾、莫特斐、渊武、桃祈</td>
+<td style="text-align: right;">17</td>
+<td>开服基础阵容；吟霖为 1.0 后半实装</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>今汐、长离</td>
+<td>—</td>
+<td style="text-align: right;">2</td>
+<td>双 5 星</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>折枝、相里要</td>
+<td>—</td>
+<td style="text-align: right;">2</td>
+<td>相里要为官方赠送的 5 星</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>守岸人</td>
+<td>釉瑚</td>
+<td style="text-align: right;">2</td>
+<td>1 个 5 星、1 个 4 星</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>椿</td>
+<td>灯灯</td>
+<td style="text-align: right;">2</td>
+<td>1 个 5 星、1 个 4 星</td>
+</tr>
+<tr>
+<td>2.0</td>
+<td>珂莱塔、洛可可</td>
+<td>—</td>
+<td style="text-align: right;">2</td>
+<td>黎那汐塔大版本</td>
+</tr>
+<tr>
+<td>2.1</td>
+<td>菲比、布兰特</td>
+<td>—</td>
+<td style="text-align: right;">2</td>
+<td>双 5 星</td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>坎特蕾拉</td>
+<td>—</td>
+<td style="text-align: right;">1</td>
+<td>漂泊者·气动形态另列</td>
+</tr>
+<tr>
+<td>2.3</td>
+<td>赞妮、夏空</td>
+<td>—</td>
+<td style="text-align: right;">2</td>
+<td>双 5 星</td>
+</tr>
+<tr>
+<td>2.4</td>
+<td>卡提希娅、露帕</td>
+<td>—</td>
+<td style="text-align: right;">2</td>
+<td>双 5 星</td>
+</tr>
+<tr>
+<td>2.5</td>
+<td>弗洛洛</td>
+<td>—</td>
+<td style="text-align: right;">1</td>
+<td>单 5 星版本</td>
+</tr>
+<tr>
+<td>2.6</td>
+<td>奥古斯塔、尤诺</td>
+<td>—</td>
+<td style="text-align: right;">2</td>
+<td>双 5 星</td>
+</tr>
+<tr>
+<td>2.7</td>
+<td>仇远、嘉贝莉娜</td>
+<td>—</td>
+<td style="text-align: right;">2</td>
+<td>双 5 星</td>
+</tr>
+<tr>
+<td>2.8</td>
+<td>千咲</td>
+<td>卜灵</td>
+<td style="text-align: right;">2</td>
+<td>1 个 5 星、1 个 4 星</td>
+</tr>
+<tr>
+<td>3.0</td>
+<td>琳奈、莫宁</td>
+<td>—</td>
+<td style="text-align: right;">2</td>
+<td>拉海洛大版本</td>
+</tr>
+<tr>
+<td>3.1</td>
+<td>爱弥斯、陆·赫斯</td>
+<td>—</td>
+<td style="text-align: right;">2</td>
+<td>双 5 星</td>
+</tr>
+<tr>
+<td>3.2</td>
+<td>西格莉卡</td>
+<td>—</td>
+<td style="text-align: right;">1</td>
+<td>单 5 星版本</td>
+</tr>
+<tr>
+<td>3.3</td>
+<td>绯雪、达妮娅</td>
+<td>—</td>
+<td style="text-align: right;">2</td>
+<td>双 5 星</td>
+</tr>
+<tr>
+<td>3.4</td>
+<td>露西、丽贝卡、洛瑟菈</td>
+<td>—</td>
+<td style="text-align: right;">3</td>
+<td>联动/周年特殊供给；丽贝卡可活动免费获得</td>
+</tr>
+<tr>
+<td>3.5</td>
+<td>秧秧·玄翎、穗穗</td>
+<td>—</td>
+<td style="text-align: right;">2</td>
+<td>秧秧·玄翎为可唤取 SP 形态</td>
+</tr>
+<tr>
+<td>3.6</td>
+<td>清宵、景燃</td>
+<td>—</td>
+<td style="text-align: right;">2</td>
+<td>双 5 星</td>
+</tr>
+<tr>
+<td>3.7</td>
+<td>心、锁暝</td>
+<td>—</td>
+<td style="text-align: right;">2</td>
+<td>双 5 星</td>
+</tr>
+</tbody>
+</table>
+<p><strong>复核结果：</strong> 表内合计为 57 名（5 星 45、4 星
+12）。排除 1.0 开服阵容后，1.1—3.7 的 21 个更新版本共新增 40 名，平均
+<strong>1.90 名/版</strong>；其中 37 名为 5 星、3 名为 4 星，新增角色的
+5 星占比为 <strong>92.5%</strong>。分阶段看：1.1—1.4 为 2.00
+名/版，2.0—2.8 为 1.78 名/版，3.0—3.7 为 2.00 名/版。</p>
+<h4
+id="漂泊者不计新角色但应计为模组产能">漂泊者：不计“新角色”、但应计为模组产能</h4>
+<table>
+<thead>
+<tr>
+<th>版本</th>
+<th>新形态</th>
+<th>处理方式</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0</td>
+<td>衍射、湮灭</td>
+<td>开服/主线基础形态</td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>气动</td>
+<td>复用主角资产，但拥有一套独立属性与技能机制</td>
+</tr>
+<tr>
+<td>3.5</td>
+<td>导电</td>
+<td>同上；应在“角色战斗模块迭代”中统计</td>
+</tr>
+</tbody>
+</table>
+<h3 id="12-典型技能模组从基础框架到双形态">1.2
+典型技能模组：从基础框架到双形态</h3>
+<p>角色不应仅以“出一个新模型”衡量。标准角色至少涉及普攻、重击、空中攻击、闪避反击、共鸣技能、共鸣回路、共鸣解放、变奏/延奏，以及与声骸和队伍协奏系统的联调。</p>
+<table>
+<thead>
+<tr>
+<th>案例</th>
+<th>关键结构</th>
+<th>对制作产能的含义</th>
+<th>参考拆解</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>今汐（1.1）</strong></td>
+<td>4 段普攻/重击/空中动作；常规 E「流光夕影」在条件满足后替换为强化
+E「神霓飞芒」；强化状态与队友协同攻击、属性伤害积层相连；大招独立范围爆发；变奏为强化
+E 提供前置条件</td>
+<td>在通用六技能框架上增加“状态切换 + 队友积层 +
+单次高倍率收束”。除动作和特效外，还要实现资源条、状态替换、队伍交互与爆发轴</td>
+<td><a
+href="https://www.bilibili.com/video/BV1qT421a7Hf/">B站机制解析</a>、<a
+href="https://news.17173.com/z/mingchao/content/07192024/180118981.shtml">17173
+输出轴说明</a></td>
+</tr>
+<tr>
+<td><strong>卡提希娅（2.4）</strong></td>
+<td>常态“卡提希娅”与解放后“芙露德莉斯”双形态；两套前台攻击表现；生成/回收“剑之影”场景实体；同时维护剑影与“决意”资源；大招以生命值代价切换形态，满资源释放终结技并结算风蚀；另有水上/短时空中移动</td>
+<td>双形态不是单纯换皮：需要动作、留场物、两类资源、形态专属技能、异常结算、UI、终结镜头与大世界探索能力共同制作、平衡和测试</td>
+<td><a
+href="https://www.bilibili.com/video/BV1c1TozeExo/">B站双形态测评</a>、<a
+href="https://www.bilibili.com/video/BV1wyTozNEC3">B站攻略拆解</a>、<a
+href="https://wiki.biligame.com/wutheringwaves/%E5%85%B1%E9%B8%A3%E8%80%85/%E5%8D%A1%E6%8F%90%E5%B8%8C%E5%A8%85">BWiki
+技能条目</a></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="2-剧情潮汐主线时长与任务拆分">2.
+剧情：潮汐主线时长与任务拆分</h2>
+<h3 id="21-潮汐任务版本时长">2.1 潮汐任务版本时长</h3>
+<table>
+<thead>
+<tr>
+<th>版本</th>
+<th>常驻潮汐任务（简写）</th>
+<th style="text-align: right;">时长</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0</td>
+<td>第一章·序幕及第 1—6 幕</td>
+<td style="text-align: right;">4:37</td>
+<td>开服主线</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>第一章·第 7 幕</td>
+<td style="text-align: right;">1:55</td>
+<td>—</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>无常驻潮汐任务</td>
+<td style="text-align: right;">—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>第一章·第 8 幕「行至海岸尽头」</td>
+<td style="text-align: right;">1:36</td>
+<td>—</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>「暗夜叩响白昼之门」</td>
+<td style="text-align: right;">1:27</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2.0</td>
+<td>第二章·序幕及第 1—2 幕</td>
+<td style="text-align: right;">2:52</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2.1</td>
+<td>第二章·第 3 幕「昔我悲伤，今却歌唱」</td>
+<td style="text-align: right;">1:51</td>
+<td>早期版本归属易被误标，已按任务公告校正</td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>第二章·第 4 幕「圣者，忤逆者，告死者」</td>
+<td style="text-align: right;">2:13</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2.3</td>
+<td>无潮汐任务</td>
+<td style="text-align: right;">—</td>
+<td>伴星/活动剧情另计</td>
+</tr>
+<tr>
+<td>2.4</td>
+<td>第二章·第 5—6 幕</td>
+<td style="text-align: right;">3:07</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2.5</td>
+<td>第二章·第 7 幕及潮汐序曲</td>
+<td style="text-align: right;">2:36</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2.6</td>
+<td>第二章·第 8—9 幕</td>
+<td style="text-align: right;">4:42</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2.7</td>
+<td>第二章·第 10—11 幕及幕间</td>
+<td style="text-align: right;">5:46</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2.8</td>
+<td>第二章·第 12 幕及幕间</td>
+<td style="text-align: right;">2:41</td>
+<td>—</td>
+</tr>
+<tr>
+<td>3.0</td>
+<td>第三章·序幕及第 1—2 幕</td>
+<td style="text-align: right;">5:13</td>
+<td>—</td>
+</tr>
+<tr>
+<td>3.1</td>
+<td>第三章·第 3 幕及幕间</td>
+<td style="text-align: right;">4:58</td>
+<td>—</td>
+</tr>
+<tr>
+<td>3.2</td>
+<td>第三章·第 4 幕及幕间</td>
+<td style="text-align: right;">4:06</td>
+<td>—</td>
+</tr>
+<tr>
+<td>3.3</td>
+<td>第三章·幕间、第 5 幕及幕间</td>
+<td style="text-align: right;">5:14</td>
+<td>已剔除两段潮汐续闻/纪闻支线</td>
+</tr>
+<tr>
+<td>3.4</td>
+<td>第三章·幕间「我们选择天空」</td>
+<td style="text-align: right;">1:57</td>
+<td>—</td>
+</tr>
+<tr>
+<td>3.5</td>
+<td>第四章·第 1—2 幕及幕间</td>
+<td style="text-align: right;">5:19</td>
+<td>—</td>
+</tr>
+<tr>
+<td>3.6</td>
+<td>第四章·第 3 幕及幕间</td>
+<td style="text-align: right;">4:37</td>
+<td>—</td>
+</tr>
+<tr>
+<td>3.7</td>
+<td>第四章·第 4 幕「梦枢心相由心生」</td>
+<td style="text-align: right;">4:30</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<p><strong>潮汐主线合计：约 71 小时 28 分。</strong> 该总数由逐 P
+的原始秒数相加后换算；上表为方便阅读统一显示到分钟，直接以表内分钟相加会产生若干分钟的取整差异，不应据此替代原始录屏时长。</p>
+<h3 id="22-主线以外剧情必须单列">2.2 主线以外剧情：必须单列</h3>
+<table>
+<thead>
+<tr>
+<th>范围</th>
+<th style="text-align: right;">已核对的内容体验时长</th>
+<th>处理建议</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0 伴星任务</td>
+<td style="text-align: right;">忌炎、吟霖、凌阳 3 个，合计约 2:31</td>
+<td>不并入潮汐主线</td>
+</tr>
+<tr>
+<td>1.1—1.4 伴星任务</td>
+<td style="text-align: right;">长离 1:22；折枝 1:11；安可 0:59；椿
+1:11</td>
+<td>可作为角色叙事产能单列</td>
+</tr>
+<tr>
+<td>2.0—2.3 伴星/危行</td>
+<td style="text-align: right;">2.0 洛可可/珂莱塔 3 段约 2:39；2.1 布兰特
+0:53；2.2 坎特蕾拉 1:17；2.3 赞妮 1:05；2.1 危行两段约 1:26</td>
+<td>与常驻潮汐任务分开统计</td>
+</tr>
+<tr>
+<td>3.x 后分支</td>
+<td style="text-align: right;">3.4 联动外传「边缘幻梦」约 2:53；3.7
+奇谭「璇心如月寄尘情」约 0:57</td>
+<td>“诸星密语/同行”等录屏集合边界不稳定，本轮不填 0</td>
+</tr>
+</tbody>
+</table>
+<p>时长来源：<a
+href="https://www.bilibili.com/video/BV1zyLSz8Eg4/">1.0—2.8 多 P
+完整流程</a>、<a
+href="https://www.bilibili.com/video/BV1oPBUBtESM/">3.0—3.7 多 P
+完整流程</a>。这是 B 站实录代理指标；官方 3.7
+公告可交叉确认任务名称及常驻开放条件：<a
+href="https://mc.kurogames.com/main/news/detail/5569">3.7
+版本内容说明</a>。</p>
+<hr />
+<h2 id="3-地图永久区域资源与面积边界">3.
+地图：永久区域、资源与面积边界</h2>
+<h3 id="31-永久新增区域场景">3.1 永久新增区域/场景</h3>
+<p>“—”代表未公布新的<strong>永久</strong>区域，并非没有活动副本或限时场景。</p>
+<table>
+<thead>
+<tr>
+<th>版本</th>
+<th>永久区域/大型场景</th>
+<th>版本探索机制或资源特点</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0</td>
+<td>瑝珑·今州（基图）</td>
+<td>声匣、宝箱、观景、飞猎手、矿物/植物/食材、声骸与隐藏解谜的基础框架</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>乘霄山</td>
+<td>分层山体探索</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>黑海岸（群岛、泰缇斯之底）</td>
+<td>群岛/地下复合场景</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2.0</td>
+<td>黎那汐塔·拉古那</td>
+<td>飞行、藏宝地/奇藏探测</td>
+</tr>
+<tr>
+<td>2.1</td>
+<td>下层金库、黎乔利群岛</td>
+<td>新区域群</td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>阿维纽林、贝奥海域</td>
+<td>重力翻转、扶风转标</td>
+</tr>
+<tr>
+<td>2.3</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2.4</td>
+<td>七丘</td>
+<td>斩击机制</td>
+</tr>
+<tr>
+<td>2.5</td>
+<td>隐海试验场</td>
+<td>调律机制</td>
+</tr>
+<tr>
+<td>2.6</td>
+<td>桑古伊斯狩原</td>
+<td>翱翔扩展、矿物富集区追踪</td>
+</tr>
+<tr>
+<td>2.7</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2.8</td>
+<td>时隙废都</td>
+<td>独立探索区域</td>
+</tr>
+<tr>
+<td>3.0</td>
+<td>罗伊冰原·拉海洛（公告列 9 个子区域）</td>
+<td>显像、区域特产、留影、终声残卷等</td>
+</tr>
+<tr>
+<td>3.1</td>
+<td>罗伊冰原·冰原地表（5 个子区）</td>
+<td>科考摩托与冰原探索</td>
+</tr>
+<tr>
+<td>3.2</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>3.3</td>
+<td>罗伊冰原·黯原</td>
+<td>新区域扩张</td>
+</tr>
+<tr>
+<td>3.4</td>
+<td>「心之集域·夜之城」</td>
+<td>联动限定场景，<strong>单列，不等同大世界扩图</strong></td>
+</tr>
+<tr>
+<td>3.5</td>
+<td>梦州·玄方地界（4 子区）</td>
+<td>玄方城探索</td>
+</tr>
+<tr>
+<td>3.6</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>3.7</td>
+<td>梦枢天罗（7 场景）</td>
+<td>心相迷宫、烬/凄/怡/沉/墟/相心域；新增无音区与残象聚落</td>
+</tr>
+</tbody>
+</table>
+<p>官方 3.7 明确列出梦枢天罗的 7 个场景和新增无音区/残象聚落：<a
+href="https://mc.kurogames.com/main/news/detail/5569">版本说明</a>。较早版本可由<a
+href="https://wuwa.huijiwiki.com/wiki/1.0版本">版本目录</a>、<a
+href="https://wuwa.huijiwiki.com/wiki/2.2版本「真伪倒悬于高塔」">2.2
+版本说明</a>、<a
+href="https://wuwa.huijiwiki.com/wiki/2.4版本「轻掷欢呼之冕」">2.4
+版本说明</a>、<a href="https://wuwa.huijiwiki.com/wiki/2.8版本">2.8
+版本说明</a>、<a
+href="https://wuwa.huijiwiki.com/wiki/3.0版本「我们生而眺望」">3.0
+版本说明</a> 交叉追溯。</p>
+<h3 id="32-为什么不填平方公里">3.2 为什么不填“平方公里”</h3>
+<p>官方没有发布地图的真实尺度、可玩边界面积或各层空间面积。B
+站有创作者对 2.0 地图做过地理测量（<a
+href="https://www.bilibili.com/video/BV18JcZeuEKj/">《我算出了〈鸣潮〉全地图有多大》</a>），但作者自己说明只按陆地测量、是否纳入大片海域会显著改变结果。因此：</p>
+<ul>
+<li>该视频可以作为<strong>测量方法线索</strong>，不能作为跨版本的官方
+km² 指标；</li>
+<li>不采用网上“超过 100 km²”一类无可复算来源的数字；</li>
+<li>后续若需面积
+KPI，应先固定“可步行/可飞行外轮廓、是否含海域、是否把地下按投影或实际表面积计算”的方法，并保留每张地图截图/坐标原始数据。</li>
+</ul>
+<h3 id="33-大世界资源点建议的可复核分类">3.3
+大世界资源点：建议的可复核分类</h3>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>主要内容</th>
+<th>使用方式</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>探索收集</td>
+<td>宝箱/奇藏、声匣、观景点、飞猎手、终声残卷/区域收集物</td>
+<td>可按区域完成度或互动地图点位统计</td>
+</tr>
+<tr>
+<td>养成采集</td>
+<td>角色突破材料、矿物、植物、食材、钓鱼点、NPC 商店</td>
+<td>反映角色与装备养成供给</td>
+</tr>
+<tr>
+<td>战斗挑战</td>
+<td>声骸、精英/Boss、无音区、残象聚落、限时挑战</td>
+<td>与声骸/武器循环相连</td>
+</tr>
+<tr>
+<td>任务解谜</td>
+<td>主支线、隐藏任务、机关/解谜、传送/信标</td>
+<td>反映探索的内容密度</td>
+</tr>
+</tbody>
+</table>
+<p>官方互动地图可用于点位逐项复核：<a
+href="https://static-web.ghzs.com/cspage_pro/mingchao-map.html">鸣潮互动地图</a>。B
+站可作为资源索引补充，例如<a
+href="https://www.bilibili.com/opus/1117256521414082585">区域资源类别索引</a>、<a
+href="https://www.bilibili.com/video/BV1awBQB4Em3/">3.0
+全收集流程</a>、<a
+href="https://www.bilibili.com/video/BV1SGqmBgEW1/">全图资源统计（作者自称有误差）</a>；均不宜直接作为官方资源总数。</p>
+<hr />
+<h2 id="4-boss全息战略与敌人图鉴">4. Boss：全息战略与敌人图鉴</h2>
+<h3 id="41-常驻全息战略-boss23-名">4.1 常驻全息战略 Boss（23 名）</h3>
+<p>官方名称是<strong>全息战略</strong>；“全息挑战”只是社区泛称。按挑战子类统计：强袭
+6、幻痛 10、同步 5、演武 2，共 23 名。</p>
+<table>
+<thead>
+<tr>
+<th>子类</th>
+<th>Boss</th>
+<th style="text-align: right;">数量</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>强袭</td>
+<td>朔雷之鳞、无常凶鹭、哀声鸷、飞廉之猩、无冠者、燎照之骑</td>
+<td style="text-align: right;">6</td>
+</tr>
+<tr>
+<td>幻痛</td>
+<td>无归的谬误、异构武装、赫卡忒、叹息古龙、罗蕾莱、芙露德莉斯、凯尔匹、海之女、荣誉狮像、伪作的神王</td>
+<td style="text-align: right;">10</td>
+</tr>
+<tr>
+<td>同步</td>
+<td>无妄者、炉芯机骸、海维夏、辛吉勒姆、无铭探索者</td>
+<td style="text-align: right;">5</td>
+</tr>
+<tr>
+<td>演武</td>
+<td>达妮娅、万囮牢·朽躯</td>
+<td style="text-align: right;">2</td>
+</tr>
+</tbody>
+</table>
+<h3 id="42-各版本新增全息-boss-节奏">4.2 各版本新增全息 Boss 节奏</h3>
+<table>
+<thead>
+<tr>
+<th>版本</th>
+<th style="text-align: right;">新增数</th>
+<th>新增对象/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0</td>
+<td style="text-align: right;">4</td>
+<td>强袭：朔雷之鳞、无常凶鹭、哀声鸷、飞廉之猩</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td style="text-align: right;">1</td>
+<td>强袭：无冠者</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td style="text-align: right;">0</td>
+<td>“竞雪”是活动，不计入常驻 Boss</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td style="text-align: right;">1</td>
+<td>强袭：燎照之骑</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td style="text-align: right;">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2.0</td>
+<td style="text-align: right;">2</td>
+<td>幻痛：无归的谬误、异构武装</td>
+</tr>
+<tr>
+<td>2.1</td>
+<td style="text-align: right;">1</td>
+<td>幻痛新增 1 名</td>
+</tr>
+<tr>
+<td>2.2</td>
+<td style="text-align: right;">1</td>
+<td>幻痛新增 1 名</td>
+</tr>
+<tr>
+<td>2.3</td>
+<td style="text-align: right;">2</td>
+<td>幻痛新增 2 名</td>
+</tr>
+<tr>
+<td>2.4</td>
+<td style="text-align: right;">1</td>
+<td>幻痛新增 1 名</td>
+</tr>
+<tr>
+<td>2.5</td>
+<td style="text-align: right;">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2.6</td>
+<td style="text-align: right;">1</td>
+<td>幻痛新增 1 名</td>
+</tr>
+<tr>
+<td>2.7</td>
+<td style="text-align: right;">1</td>
+<td>幻痛新增 1 名</td>
+</tr>
+<tr>
+<td>2.8</td>
+<td style="text-align: right;">1</td>
+<td>幻痛：伪作的神王</td>
+</tr>
+<tr>
+<td>3.0</td>
+<td style="text-align: right;">1</td>
+<td>同步新增 1 名</td>
+</tr>
+<tr>
+<td>3.1</td>
+<td style="text-align: right;">1</td>
+<td>同步：炉芯机骸</td>
+</tr>
+<tr>
+<td>3.2</td>
+<td style="text-align: right;">1</td>
+<td>同步新增 1 名</td>
+</tr>
+<tr>
+<td>3.3</td>
+<td style="text-align: right;">1</td>
+<td>同步新增 1 名</td>
+</tr>
+<tr>
+<td>3.4</td>
+<td style="text-align: right;">1</td>
+<td>同步：无铭探索者</td>
+</tr>
+<tr>
+<td>3.5</td>
+<td style="text-align: right;">1</td>
+<td>演武：达妮娅</td>
+</tr>
+<tr>
+<td>3.6</td>
+<td style="text-align: right;">1</td>
+<td>演武：万囮牢·朽躯</td>
+</tr>
+<tr>
+<td>3.7</td>
+<td style="text-align: right;">0</td>
+<td>官方版本说明未新增全息</td>
+</tr>
+</tbody>
+</table>
+<p>全息名单及新增节奏以<a
+href="https://mc.kurogames.com/main/news/detail/3663">官方 2.8
+公告</a>、<a href="https://mc.kurogames.com/main/news/detail/4211">官方
+3.1 公告</a>、<a
+href="https://mc.kurogames.com/main/news/detail/4772">官方 3.4
+公告</a>、<a href="https://mc.kurogames.com/main/news/detail/5569">3.7
+说明</a>与 <a href="https://wiki.biligame.com/wutheringwaves/成就">BWiki
+成就</a>交叉核对。</p>
+<p><strong>图鉴口径补充：</strong> Encore Release 当前
+<code>monster</code> 图鉴有 310 个条目，其中 Overlord Class 55、Calamity
+Class 28，合计 83
+个“高阶敌人条目”；其中含幻象/回想等变体，<strong>不得写成 83 个独立
+Boss</strong>。资料来源：<a href="https://encore.moe/monster">Encore
+怪物图鉴</a>、<a href="https://api-v2.encore.moe/api/en/monster">Release
+API</a>。机制拆解可参考 <a
+href="https://www.bilibili.com/video/BV1MjrpYdEmX/">2.0
+无归的谬误</a>、<a
+href="https://www.bilibili.com/video/BV16GXwBqEQk/">3.2 海维夏</a> 的 B
+站攻略，作为动作/招式复杂度观察，不作数量统计主数据。</p>
+<hr />
+<h2 id="5-武器与声骸库存与版本新增">5. 武器与声骸：库存与版本新增</h2>
+<h3 id="51-口径">5.1 口径</h3>
+<ul>
+<li><strong>武器</strong>：角色可装备的长刃、迅刀、佩枪、臂铠、音感仪。版本“新武器”采用官方公告的“全新武器”口径，不把复刻、投影外观与活动返场混入。</li>
+<li><strong>声骸条目</strong>：敌人掉落/可装备的声骸，含 COST
+和合鸣归属；幻象/异相会使条目数高于基础怪物种类。</li>
+<li><strong>合鸣效果/声骸套装</strong>：按套装效果名计数，不等于声骸个体数。</li>
+</ul>
+<p>截至本次快照，Encore Release 数据库显示：<strong>124
+把武器</strong>（5 星 50、4 星 43、3 星 21、2 星 5、1 星
+5）、<strong>319 个声骸条目</strong>（含异相/幻象等变体）、<strong>37
+套合鸣效果</strong>。来源：<a
+href="https://api-v2.encore.moe/api/en/weapon">武器 API</a>、<a
+href="https://api-v2.encore.moe/api/en/echo">声骸 API</a>。</p>
+<h3 id="52-3037-新增-5-星武器与合鸣效果">5.2 3.0—3.7 新增 5
+星武器与合鸣效果</h3>
+<p>早期 1.0—2.8
+的逐版本“新武器”需逐条回填官方公告；为避免把赠送/活动/复刻混入，本轮先列公告较完整的
+3.x。3.0—3.7 共新增 <strong>21 把 5 星武器</strong>、<strong>16
+套合鸣效果</strong>；由当前 37 套总库存反推，1.0—2.8 时期已有 21
+套，但这不是逐版本验证的替代品。</p>
+<table>
+<thead>
+<tr>
+<th>版本</th>
+<th>新增 5 星武器</th>
+<th style="text-align: right;">数量</th>
+<th>新增合鸣效果</th>
+<th style="text-align: right;">数量</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3.0</td>
+<td>溢彩荧辉、宙算仪轨；常驻“共生武装”5
+件：镭射切变、源能机锋、相位涟漪、脉冲协臂、玻色星仪</td>
+<td style="text-align: right;">7</td>
+<td>逆光跃彩之约、星构寻辉之环、流金溯真之式</td>
+<td style="text-align: right;">3</td>
+</tr>
+<tr>
+<td>3.1</td>
+<td>永远的启明星、白昼之脊</td>
+<td style="text-align: right;">2</td>
+<td>长路启航之星、斑驳粉饰之沫、听唤语义之愿</td>
+<td style="text-align: right;">3</td>
+</tr>
+<tr>
+<td>3.2</td>
+<td>昭日译注</td>
+<td style="text-align: right;">1</td>
+<td>—</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr>
+<td>3.3</td>
+<td>灼霜、赝作的矮星</td>
+<td style="text-align: right;">2</td>
+<td>剪心辑梦之影、雪落无声之愿</td>
+<td style="text-align: right;">2</td>
+</tr>
+<tr>
+<td>3.4</td>
+<td>存帧、蜃影、碎骨</td>
+<td style="text-align: right;">3</td>
+<td>碎梦亡鬼之魇（1 件套联动）</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr>
+<td>3.5</td>
+<td>天之苍苍、栖霞饮露</td>
+<td style="text-align: right;">2</td>
+<td>冥途夜行之灯、清邪荡煞之心、羽落空尘之歌</td>
+<td style="text-align: right;">3</td>
+</tr>
+<tr>
+<td>3.6</td>
+<td>云琅、千般渡</td>
+<td style="text-align: right;">2</td>
+<td>凌冽决断之心</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr>
+<td>3.7</td>
+<td>玉阙玄华、沉冥</td>
+<td style="text-align: right;">2</td>
+<td>衔梦照世之心、镜影流电之瞬、茜染怀想之花</td>
+<td style="text-align: right;">3</td>
+</tr>
+</tbody>
+</table>
+<p>3.7 的角色、两把武器、三套合鸣效果均可由<a
+href="https://mc.kurogames.com/main/news/detail/5569">官方版本内容说明</a>逐项核对。3.0—3.6
+以<a href="https://wuwa.huijiwiki.com/wiki/3.0版本">3.0 版本目录</a>、<a
+href="https://mc.kurogames.com/main/news/detail/4211">3.1
+官方公告</a>、<a
+href="https://mc.kurogames.com/main/news/detail/4772">3.4
+官方公告</a>和官方渠道转帖交叉核验；若用于外部发布，建议继续补录 1.0—2.8
+的公告链接后再输出“全版本新武器曲线”。</p>
+<hr />
+<h2 id="6-研究解读与下一步">6. 研究解读与下一步</h2>
+<ol type="1">
+<li><strong>角色节奏稳定、4 星稀缺。</strong> 开服后长期接近每版 2
+名新角色，但几乎全部是 5 星；3.4 的 3
+名属于联动/周年特殊峰值，不应拿来代表常态。</li>
+<li><strong>剧情不是均匀产能。</strong> 2.6、2.7、3.0—3.3、3.5—3.7
+的潮汐主线明显更长；空白版本仍可能包含伴星、危行、活动或常驻玩法，不能据此判断“无叙事”。</li>
+<li><strong>地图建议放弃“面积竞赛”。</strong>
+以区域/子区、探索机制、点位和资源类型作指标，才可被复算；若未来要比较竞品，再统一构建坐标测量方法。</li>
+<li><strong>Boss 有清晰的可比池。</strong> 23 名全息战略 Boss
+比“全图有多少 Boss”更稳定；后者会被图鉴变体、精英怪和周本定义影响。</li>
+<li><strong>套装在 3.x 明显加速。</strong> 3.0—3.7 已新增 16
+套合鸣效果；它代表的不只是装备数，也带来角色、异常、队伍配装与掉落场景的联调工作。</li>
+</ol>
+<h3 id="建议后续补全的原始表">建议后续补全的原始表</h3>
+<ul>
+<li>逐版本官方公告 URL、公告日期、上线日期、卡池阶段；</li>
+<li>每个角色的动作数、状态数、留场物数、资源条数、探索能力等“模组复杂度”字段；</li>
+<li>每张区域地图的标注截图、可复算面积规则、宝箱/收集物/任务点位原始计数；</li>
+<li>1.0—2.8 每版新武器与合鸣套装的公告原文；</li>
+<li>以统一规则标记常驻、联动、活动限定和复刻，避免将营销节奏误读为开发产能。</li>
+</ul>
+</body>
+</html>
