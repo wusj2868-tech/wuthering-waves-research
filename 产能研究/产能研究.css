@@ -88,6 +88,11 @@ blockquote {
   text-align: center;
   white-space: nowrap;
 }
+.story-card th, .story-card td { width: 50%; }
+.story-card tfoot { background: var(--accent-soft); font-weight: 700; }
+.research-notes { margin: 18px 0 28px; padding: 12px 16px; border: 1px solid var(--line); border-radius: 8px; background: var(--wash); }
+.research-notes summary { cursor: pointer; color: #14384e; font-weight: 600; }
+.research-notes li { margin: 8px 0; }
 
 .character-portraits, .character-actions {
   display: grid;

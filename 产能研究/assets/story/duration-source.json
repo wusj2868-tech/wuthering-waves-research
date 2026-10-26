@@ -1,0 +1,1327 @@
+{
+  "retrievedAt": "2026-10-26T11:58:04.248Z",
+  "scope": "已核实录屏中的主线、伴星、危行、纪闻、活动、联动、奇谭等剧情总时长；非全世界任务穷尽统计",
+  "versionAssignmentCorrection": "昔我悲伤，今却歌唱属于2.0，依据官方2.0说明：https://www.taptap.cn/moment/623651588774300992",
+  "videos": [
+    {
+      "bvid": "BV1zyLSz8Eg4",
+      "title": "《鸣潮》1.0与2.0主线剧情合集",
+      "uploader": "极品骷髅",
+      "url": "https://www.bilibili.com/video/BV1zyLSz8Eg4/",
+      "pages": [
+        {
+          "page": 1,
+          "title": "世界之出序章：万象新声",
+          "durationSeconds": 1765,
+          "version": "1.0"
+        },
+        {
+          "page": 2,
+          "title": "第1章-第一幕：嘤鸣初相召",
+          "durationSeconds": 2244,
+          "version": "1.0"
+        },
+        {
+          "page": 3,
+          "title": "第1章-第二幕：撞金止行阵",
+          "durationSeconds": 1745,
+          "version": "1.0"
+        },
+        {
+          "page": 4,
+          "title": "第1章-第三幕：奔策侯残星",
+          "durationSeconds": 1978,
+          "version": "1.0"
+        },
+        {
+          "page": 5,
+          "title": "第1章-第四幕：庭际刀刃鸣",
+          "durationSeconds": 2176,
+          "version": "1.0"
+        },
+        {
+          "page": 6,
+          "title": "第1章-第五幕：欲知天将雨",
+          "durationSeconds": 2848,
+          "version": "1.0"
+        },
+        {
+          "page": 7,
+          "title": "第1章-第六幕：千里卷戎笙A",
+          "durationSeconds": 2382,
+          "version": "1.0"
+        },
+        {
+          "page": 8,
+          "title": "第1章-第六幕：千里卷戎笙B",
+          "durationSeconds": 1507,
+          "version": "1.0"
+        },
+        {
+          "page": 9,
+          "title": "第1章-第七幕：往岁乘霄醒惊蛰A",
+          "durationSeconds": 1639,
+          "version": "1.1"
+        },
+        {
+          "page": 10,
+          "title": "第1章-第七幕：往岁乘霄醒惊蛰B",
+          "durationSeconds": 2549,
+          "version": "1.1"
+        },
+        {
+          "page": 11,
+          "title": "第1章-第七幕：往岁乘霄醒惊蛰C",
+          "durationSeconds": 2761,
+          "version": "1.1"
+        },
+        {
+          "page": 12,
+          "title": "第1章-第八幕：行至海岸尽头A",
+          "durationSeconds": 2572,
+          "version": "1.3"
+        },
+        {
+          "page": 13,
+          "title": "第1章-第八幕：行至海岸尽头B",
+          "durationSeconds": 3233,
+          "version": "1.3"
+        },
+        {
+          "page": 14,
+          "title": "第2章-序章：如一叶小舟穿行于茫茫海洋",
+          "durationSeconds": 1848,
+          "version": "2.0"
+        },
+        {
+          "page": 15,
+          "title": "第2章-第一幕：那神圣微风时常吹入",
+          "durationSeconds": 2764,
+          "version": "2.0"
+        },
+        {
+          "page": 16,
+          "title": "第2章-第二幕：夜与昼 均请摘下面纱A",
+          "durationSeconds": 2955,
+          "version": "2.0"
+        },
+        {
+          "page": 17,
+          "title": "第2章-第二幕：夜与昼 均请摘下面纱B",
+          "durationSeconds": 2801,
+          "version": "2.0"
+        },
+        {
+          "page": 18,
+          "title": "第2章-第三幕：昔我悲伤 今却歌唱A",
+          "durationSeconds": 3887,
+          "version": "2.0"
+        },
+        {
+          "page": 19,
+          "title": "第2章-第三幕：昔我悲伤 今却歌唱B",
+          "durationSeconds": 2796,
+          "version": "2.0"
+        },
+        {
+          "page": 20,
+          "title": "菲比剧情：叶落无声",
+          "durationSeconds": 2683,
+          "version": "2.1"
+        },
+        {
+          "page": 21,
+          "title": "菲比剧情：老人与海",
+          "durationSeconds": 2525,
+          "version": "2.1"
+        },
+        {
+          "page": 22,
+          "title": "第2章-第四幕：圣者 忤逆者 告死者A",
+          "durationSeconds": 2816,
+          "version": "2.2"
+        },
+        {
+          "page": 23,
+          "title": "第2章-第四幕：圣者 忤逆者 告死者B",
+          "durationSeconds": 2863,
+          "version": "2.2"
+        },
+        {
+          "page": 24,
+          "title": "第2章-第四幕：圣者 忤逆者 告死者C",
+          "durationSeconds": 2360,
+          "version": "2.2"
+        },
+        {
+          "page": 25,
+          "title": "夏空剧情-黄金之歌：唯你的长夏永不凋落A",
+          "durationSeconds": 2834,
+          "version": "2.3"
+        },
+        {
+          "page": 26,
+          "title": "夏空剧情-黄金之歌：唯你的长夏永不凋落B",
+          "durationSeconds": 2333,
+          "version": "2.3"
+        },
+        {
+          "page": 27,
+          "title": "【2.4】第2章-第五幕：荣耀暗面A",
+          "durationSeconds": 3579,
+          "version": "2.4"
+        },
+        {
+          "page": 28,
+          "title": "【2.4】第2章-第五幕：荣耀暗面B",
+          "durationSeconds": 2755,
+          "version": "2.4"
+        },
+        {
+          "page": 29,
+          "title": "【2.4】第2章-第六幕：燃烧的心A",
+          "durationSeconds": 2399,
+          "version": "2.4"
+        },
+        {
+          "page": 30,
+          "title": "【2.4】第2章-第六幕：燃烧的心B",
+          "durationSeconds": 2528,
+          "version": "2.4"
+        },
+        {
+          "page": 31,
+          "title": "【2.5】第2章-第七幕：捕梦于神秘园中A",
+          "durationSeconds": 2686,
+          "version": "2.5"
+        },
+        {
+          "page": 32,
+          "title": "【2.5】第2章-第七幕：捕梦于神秘园中B",
+          "durationSeconds": 2575,
+          "version": "2.5"
+        },
+        {
+          "page": 33,
+          "title": "【2.5】第2章-第七幕：捕梦于神秘园中C",
+          "durationSeconds": 2866,
+          "version": "2.5"
+        },
+        {
+          "page": 34,
+          "title": "【2.5】第2章-幕间：铁锈，剑与烈阳",
+          "durationSeconds": 1248,
+          "version": "2.5"
+        },
+        {
+          "page": 35,
+          "title": "【2.6】第2章-第八幕：灼以我烈阳 A",
+          "durationSeconds": 3243,
+          "version": "2.6"
+        },
+        {
+          "page": 36,
+          "title": "【2.6】第2章-第八幕：灼以我烈阳 B",
+          "durationSeconds": 3406,
+          "version": "2.6"
+        },
+        {
+          "page": 37,
+          "title": "【2.6】第2章-第八幕：灼以我烈阳 C",
+          "durationSeconds": 2696,
+          "version": "2.6"
+        },
+        {
+          "page": 38,
+          "title": "【2.6】第2章-第九幕：今夜，注定属于月亮A",
+          "durationSeconds": 2515,
+          "version": "2.6"
+        },
+        {
+          "page": 39,
+          "title": "【2.6】第2章-第九幕：今夜，注定属于月亮B",
+          "durationSeconds": 2699,
+          "version": "2.6"
+        },
+        {
+          "page": 40,
+          "title": "【2.6】第2章-第九幕：今夜，注定属于月亮C",
+          "durationSeconds": 2372,
+          "version": "2.6"
+        },
+        {
+          "page": 41,
+          "title": "【2.7】第2章-第十幕：已逝的必将归来A",
+          "durationSeconds": 2858,
+          "version": "2.7"
+        },
+        {
+          "page": 42,
+          "title": "【2.7】第2章-第十幕：已逝的必将归来B",
+          "durationSeconds": 2630,
+          "version": "2.7"
+        },
+        {
+          "page": 43,
+          "title": "【2.7】第2章-第十一幕：暗潮将映的黎明A",
+          "durationSeconds": 2853,
+          "version": "2.7"
+        },
+        {
+          "page": 44,
+          "title": "【2.7】第2章-第十一幕：暗潮将映的黎明B",
+          "durationSeconds": 2666,
+          "version": "2.7"
+        },
+        {
+          "page": 45,
+          "title": "【2.7】第2章-第十一幕：暗潮将映的黎明C",
+          "durationSeconds": 2743,
+          "version": "2.7"
+        },
+        {
+          "page": 46,
+          "title": "【2.7】第2章-第十一幕：暗潮将映的黎明D",
+          "durationSeconds": 2211,
+          "version": "2.7"
+        },
+        {
+          "page": 47,
+          "title": "【2.7】第2章-第十一幕：暗潮将映的黎明E",
+          "durationSeconds": 2015,
+          "version": "2.7"
+        },
+        {
+          "page": 48,
+          "title": "【2.7】第2章-幕间：独在异乡为异客",
+          "durationSeconds": 2813,
+          "version": "2.7"
+        },
+        {
+          "page": 49,
+          "title": "【2.8】第2章-第十二幕：曙光停摆于荒地之上A",
+          "durationSeconds": 3071,
+          "version": "2.8"
+        },
+        {
+          "page": 50,
+          "title": "【2.8】第2章-第十二幕：曙光停摆于荒地之上B",
+          "durationSeconds": 3313,
+          "version": "2.8"
+        },
+        {
+          "page": 51,
+          "title": "【2.8】第2章-幕间：星光流转于眼眸之间",
+          "durationSeconds": 3326,
+          "version": "2.8"
+        },
+        {
+          "page": 52,
+          "title": "伴星任务-吟霖(此际我独行)",
+          "durationSeconds": 3598,
+          "version": "1.0"
+        },
+        {
+          "page": 53,
+          "title": "伴星任务-凌阳(啸野归城）",
+          "durationSeconds": 3100,
+          "version": "1.0"
+        },
+        {
+          "page": 54,
+          "title": "伴星任务-安可(小小羊咩大冒险）",
+          "durationSeconds": 3595,
+          "version": "1.3"
+        },
+        {
+          "page": 55,
+          "title": "伴星任务-忌炎（长夜将明）",
+          "durationSeconds": 2421,
+          "version": "1.0"
+        },
+        {
+          "page": 56,
+          "title": "伴星任务-折枝(自问丹青)",
+          "durationSeconds": 4270,
+          "version": "1.2"
+        },
+        {
+          "page": 57,
+          "title": "伴星任务-长离(离火奕长生)",
+          "durationSeconds": 4959,
+          "version": "1.1"
+        },
+        {
+          "page": 58,
+          "title": "伴星任务-椿(小径分岔的星海）",
+          "durationSeconds": 4319,
+          "version": "1.4"
+        },
+        {
+          "page": 59,
+          "title": "伴星任务-洛可可(今夜星光灿烂)",
+          "durationSeconds": 3085,
+          "version": "2.0"
+        },
+        {
+          "page": 60,
+          "title": "伴星任务-布兰特(启航日，船长）",
+          "durationSeconds": 3180,
+          "version": "2.1"
+        },
+        {
+          "page": 61,
+          "title": "伴星任务-珂莱塔(如果在雨夜，一个家族)A",
+          "durationSeconds": 3500,
+          "version": "2.0"
+        },
+        {
+          "page": 62,
+          "title": "伴星任务-珂莱塔(如果在雨夜，一个家族)B",
+          "durationSeconds": 2970,
+          "version": "2.0"
+        },
+        {
+          "page": 63,
+          "title": "伴星任务-坎特雷拉(幽夜幻梦）",
+          "durationSeconds": 4647,
+          "version": "2.2"
+        },
+        {
+          "page": 64,
+          "title": "伴星任务-赞妮(夜行的焰光）",
+          "durationSeconds": 3908,
+          "version": "2.3"
+        },
+        {
+          "page": 65,
+          "title": "主线任务-暗夜叩响白昼之门A",
+          "durationSeconds": 2637,
+          "version": "1.4"
+        },
+        {
+          "page": 66,
+          "title": "主线任务-暗夜叩响白昼之门B",
+          "durationSeconds": 2627,
+          "version": "1.4"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1oPBUBtESM",
+      "title": "鸣潮剧情合集三期4K（更新到3.7主线剧情，新生之作，将涌于渊，梦枢心相由心生，奇谭任务璇心如月寄尘情，清宵，锁暝，心，心月狐，朝朝何年月，匣中奇谭•苍狐记",
+      "uploader": "泛音1572",
+      "url": "https://www.bilibili.com/video/BV1oPBUBtESM/",
+      "pages": [
+        {
+          "page": 1,
+          "title": "【3.0.主】驶向尚未点亮之星，序幕，未知的既感",
+          "durationSeconds": 1019,
+          "version": "3.0"
+        },
+        {
+          "page": 2,
+          "title": "【3.0.主】驶向尚未点亮之星1冰原下的星炬1",
+          "durationSeconds": 1704,
+          "version": "3.0"
+        },
+        {
+          "page": 3,
+          "title": "【3.0.主】驶向尚未点亮之星1冰原下的星炬2",
+          "durationSeconds": 1995,
+          "version": "3.0"
+        },
+        {
+          "page": 4,
+          "title": "【3.0.主】驶向尚未点亮之星1冰原下的星炬3",
+          "durationSeconds": 1472,
+          "version": "3.0"
+        },
+        {
+          "page": 5,
+          "title": "【3.0.主】驶向尚未点亮之星1冰原下的星炬4",
+          "durationSeconds": 1507,
+          "version": "3.0"
+        },
+        {
+          "page": 6,
+          "title": "【3.0.主】驶向尚未点亮之星1冰原下的星炬5",
+          "durationSeconds": 2096,
+          "version": "3.0"
+        },
+        {
+          "page": 7,
+          "title": "【3.0.主】驶向尚未点亮之星1冰原下的星炬6",
+          "durationSeconds": 562,
+          "version": "3.0"
+        },
+        {
+          "page": 8,
+          "title": "【3.0.纪文】寻迹于智慧之光，于风最近之时",
+          "durationSeconds": 1236,
+          "version": "3.0"
+        },
+        {
+          "page": 9,
+          "title": "【3.0.主】驶向尚未点亮之星2致第二次日出1",
+          "durationSeconds": 1235,
+          "version": "3.0"
+        },
+        {
+          "page": 10,
+          "title": "【3.0.主】驶向尚未点亮之星2致第二次日出2",
+          "durationSeconds": 1950,
+          "version": "3.0"
+        },
+        {
+          "page": 11,
+          "title": "【3.0.主】驶向尚未点亮之星2致第二次日出3",
+          "durationSeconds": 1344,
+          "version": "3.0"
+        },
+        {
+          "page": 12,
+          "title": "【3.0.主】驶向尚未点亮之星2致第二次日出4",
+          "durationSeconds": 1690,
+          "version": "3.0"
+        },
+        {
+          "page": 13,
+          "title": "【3.0.主】驶向尚未点亮之星2致第二次日出5",
+          "durationSeconds": 2259,
+          "version": "3.0"
+        },
+        {
+          "page": 14,
+          "title": "【3.1.主】驶向尚未点亮之星3远航星1",
+          "durationSeconds": 1437,
+          "version": "3.1"
+        },
+        {
+          "page": 15,
+          "title": "【3.1.主】驶向尚未点亮之星3远航星2",
+          "durationSeconds": 1214,
+          "version": "3.1"
+        },
+        {
+          "page": 16,
+          "title": "【3.1.主】驶向尚未点亮之星3远航星3",
+          "durationSeconds": 1390,
+          "version": "3.1"
+        },
+        {
+          "page": 17,
+          "title": "【3.1.主】驶向尚未点亮之星3远航星4",
+          "durationSeconds": 1120,
+          "version": "3.1"
+        },
+        {
+          "page": 18,
+          "title": "【3.1.主】驶向尚未点亮之星3远航星5",
+          "durationSeconds": 2396,
+          "version": "3.1"
+        },
+        {
+          "page": 19,
+          "title": "【3.1.主】驶向尚未点亮之星3远航星6",
+          "durationSeconds": 970,
+          "version": "3.1"
+        },
+        {
+          "page": 20,
+          "title": "【3.1.主】驶向尚未点亮之星3远航星7",
+          "durationSeconds": 1885,
+          "version": "3.1"
+        },
+        {
+          "page": 21,
+          "title": "【3.1.主】驶向尚未点亮之星3远航星8",
+          "durationSeconds": 1845,
+          "version": "3.1"
+        },
+        {
+          "page": 22,
+          "title": "【3.1.主】驶向尚未点亮之星3远航星9",
+          "durationSeconds": 1472,
+          "version": "3.1"
+        },
+        {
+          "page": 23,
+          "title": "【3.1.活】银河倾落之间1.1无尽盛宴与呜呜派对",
+          "durationSeconds": 1830,
+          "version": "3.1"
+        },
+        {
+          "page": 24,
+          "title": "【3.1.活】银河倾落之间1.2打牌（今汐，嘉贝莉娜，陆•赫斯）",
+          "durationSeconds": 533,
+          "version": "3.1"
+        },
+        {
+          "page": 25,
+          "title": "【3.1.活】银河倾落之间1.3饮品制作（露帕，卡提西亚，莫宁）",
+          "durationSeconds": 1338,
+          "version": "3.1"
+        },
+        {
+          "page": 26,
+          "title": "【3.1.活】银河倾落之间2.1答案在银河倾落之地",
+          "durationSeconds": 494,
+          "version": "3.1"
+        },
+        {
+          "page": 27,
+          "title": "【3.1.活】银河倾落之间2.2夜宴来客（琳奈，忌炎，坎特蕾拉，赞妮，吟霖）",
+          "durationSeconds": 900,
+          "version": "3.1"
+        },
+        {
+          "page": 28,
+          "title": "【3.1.活】银河倾落之间3",
+          "durationSeconds": 217,
+          "version": "3.1"
+        },
+        {
+          "page": 29,
+          "title": "【3.1.主】驶向尚未点亮之星4日光落处1",
+          "durationSeconds": 1770,
+          "version": "3.1"
+        },
+        {
+          "page": 30,
+          "title": "【3.1.主】驶向尚未点亮之星4日光落处2",
+          "durationSeconds": 2401,
+          "version": "3.1"
+        },
+        {
+          "page": 31,
+          "title": "【3.2.主】驶向尚未点亮之星5影下不落的黄金1",
+          "durationSeconds": 1256,
+          "version": "3.2"
+        },
+        {
+          "page": 32,
+          "title": "【3.2.主】驶向尚未点亮之星5影下不落的黄金2",
+          "durationSeconds": 1484,
+          "version": "3.2"
+        },
+        {
+          "page": 33,
+          "title": "【3.2.主】驶向尚未点亮之星5影下不落的黄金3",
+          "durationSeconds": 1690,
+          "version": "3.2"
+        },
+        {
+          "page": 34,
+          "title": "【3.2.主】驶向尚未点亮之星5影下不落的黄金4",
+          "durationSeconds": 1153,
+          "version": "3.2"
+        },
+        {
+          "page": 35,
+          "title": "【3.2.主】驶向尚未点亮之星5影下不落的黄金5",
+          "durationSeconds": 1994,
+          "version": "3.2"
+        },
+        {
+          "page": 36,
+          "title": "【3.2.主】驶向尚未点亮之星5影下不落的黄金6",
+          "durationSeconds": 2211,
+          "version": "3.2"
+        },
+        {
+          "page": 37,
+          "title": "【3.2.主】驶向尚未点亮之星5影下不落的黄金7千咲彩蛋",
+          "durationSeconds": 127,
+          "version": "3.2"
+        },
+        {
+          "page": 38,
+          "title": "【3.2.活】诸星密语•星炬学院逸话1.1琳奈1-3",
+          "durationSeconds": 983,
+          "version": "3.2"
+        },
+        {
+          "page": 39,
+          "title": "【3.2.活】诸星密语•星炬学院逸话1.2琳奈4-5",
+          "durationSeconds": 770,
+          "version": "3.2"
+        },
+        {
+          "page": 40,
+          "title": "【3.2.活】诸星密语•星炬学院逸话2.1莫宁1-2",
+          "durationSeconds": 635,
+          "version": "3.2"
+        },
+        {
+          "page": 41,
+          "title": "【3.2.活】诸星密语•星炬学院逸话2.2莫宁3-5",
+          "durationSeconds": 869,
+          "version": "3.2"
+        },
+        {
+          "page": 42,
+          "title": "【3.2.活】诸星密语•星炬学院逸话3西格莉卡1-5，彩蛋",
+          "durationSeconds": 1032,
+          "version": "3.2"
+        },
+        {
+          "page": 43,
+          "title": "【3.2.活】诸星密语•星炬学院逸话4.1陆赫斯1-3",
+          "durationSeconds": 1106,
+          "version": "3.2"
+        },
+        {
+          "page": 44,
+          "title": "【3.2.活】诸星密语•星炬学院逸话4.2陆赫斯4-5",
+          "durationSeconds": 638,
+          "version": "3.2"
+        },
+        {
+          "page": 45,
+          "title": "【3.2.活】诸星密语•星炬学院逸话5.1洛瑟菈1-3",
+          "durationSeconds": 786,
+          "version": "3.2"
+        },
+        {
+          "page": 46,
+          "title": "【3.2.活】诸星密语•星炬学院逸话5.2洛瑟菈4-5",
+          "durationSeconds": 463,
+          "version": "3.2"
+        },
+        {
+          "page": 47,
+          "title": "【3.2.活】诸星密语•星炬学院逸话6爱弥斯",
+          "durationSeconds": 225,
+          "version": "3.2"
+        },
+        {
+          "page": 48,
+          "title": "【3.2.主】驶向尚未点亮之星6影面颠倒的兔影1",
+          "durationSeconds": 1336,
+          "version": "3.2"
+        },
+        {
+          "page": 49,
+          "title": "【3.2.主】驶向尚未点亮之星6影面颠倒的兔影2",
+          "durationSeconds": 1497,
+          "version": "3.2"
+        },
+        {
+          "page": 50,
+          "title": "【3.2.主】驶向尚未点亮之星6影面颠倒的兔影3",
+          "durationSeconds": 2042,
+          "version": "3.2"
+        },
+        {
+          "page": 51,
+          "title": "【3.3.主】驶向尚未点亮之星7愿系铃中1",
+          "durationSeconds": 1222,
+          "version": "3.3"
+        },
+        {
+          "page": 52,
+          "title": "【3.3.主】驶向尚未点亮之星7愿系铃中2",
+          "durationSeconds": 1189,
+          "version": "3.3"
+        },
+        {
+          "page": 53,
+          "title": "【3.3.主】驶向尚未点亮之星8昨夜群星1",
+          "durationSeconds": 1736,
+          "version": "3.3"
+        },
+        {
+          "page": 54,
+          "title": "【3.3.主】驶向尚未点亮之星8昨夜群星2",
+          "durationSeconds": 1761,
+          "version": "3.3"
+        },
+        {
+          "page": 55,
+          "title": "【3.3.主】驶向尚未点亮之星8昨夜群星3",
+          "durationSeconds": 1634,
+          "version": "3.3"
+        },
+        {
+          "page": 56,
+          "title": "【3.3.主】驶向尚未点亮之星8昨夜群星4",
+          "durationSeconds": 1968,
+          "version": "3.3"
+        },
+        {
+          "page": 57,
+          "title": "【3.3.主】驶向尚未点亮之星8昨夜群星5",
+          "durationSeconds": 2048,
+          "version": "3.3"
+        },
+        {
+          "page": 58,
+          "title": "【3.3.主】驶向尚未点亮之星9愿系铃中•续",
+          "durationSeconds": 710,
+          "version": "3.3"
+        },
+        {
+          "page": 59,
+          "title": "【3.3.主】春风祝颂你的旅途（爱弥斯）",
+          "durationSeconds": 817,
+          "version": "3.3"
+        },
+        {
+          "page": 60,
+          "title": "【3.3.主】如那融雪所愿般（绯雪）",
+          "durationSeconds": 482,
+          "version": "3.3"
+        },
+        {
+          "page": 61,
+          "title": "【3.3.主】驶向尚未点亮之星10在溶解的夜空下1",
+          "durationSeconds": 1134,
+          "version": "3.3"
+        },
+        {
+          "page": 62,
+          "title": "【3.3.主】驶向尚未点亮之星10在溶解的夜空下2",
+          "durationSeconds": 1872,
+          "version": "3.3"
+        },
+        {
+          "page": 63,
+          "title": "【3.3.主】驶向尚未点亮之星10在溶解的夜空下3",
+          "durationSeconds": 1856,
+          "version": "3.3"
+        },
+        {
+          "page": 64,
+          "title": "【3.3.主】驶向尚未点亮之星10在溶解的夜空下4",
+          "durationSeconds": 1714,
+          "version": "3.3"
+        },
+        {
+          "page": 65,
+          "title": "【3.4.联动】边缘行者联动1边缘幻梦1",
+          "durationSeconds": 1317,
+          "version": "3.4"
+        },
+        {
+          "page": 66,
+          "title": "【3.4.联动】边缘行者联动1边缘幻梦2",
+          "durationSeconds": 1439,
+          "version": "3.4"
+        },
+        {
+          "page": 67,
+          "title": "【3.4.联动】边缘行者联动1边缘幻梦3",
+          "durationSeconds": 1460,
+          "version": "3.4"
+        },
+        {
+          "page": 68,
+          "title": "【3.4.联动】边缘行者联动1边缘幻梦4",
+          "durationSeconds": 1258,
+          "version": "3.4"
+        },
+        {
+          "page": 69,
+          "title": "【3.4.联动】边缘行者联动1边缘幻梦5",
+          "durationSeconds": 1114,
+          "version": "3.4"
+        },
+        {
+          "page": 70,
+          "title": "【3.4.联动】边缘行者联动1边缘幻梦6",
+          "durationSeconds": 1275,
+          "version": "3.4"
+        },
+        {
+          "page": 71,
+          "title": "【3.4.联动】边缘行者联动1边缘幻梦7",
+          "durationSeconds": 2501,
+          "version": "3.4"
+        },
+        {
+          "page": 72,
+          "title": "【3.4.主】驶向尚未点亮之星11我们选择的天空1",
+          "durationSeconds": 1435,
+          "version": "3.4"
+        },
+        {
+          "page": 73,
+          "title": "【3.4.主】驶向尚未点亮之星11我们选择的天空2",
+          "durationSeconds": 1818,
+          "version": "3.4"
+        },
+        {
+          "page": 74,
+          "title": "【3.4.主】驶向尚未点亮之星11我们选择的天空3",
+          "durationSeconds": 1489,
+          "version": "3.4"
+        },
+        {
+          "page": 75,
+          "title": "【3.4.主】驶向尚未点亮之星11我们选择的天空4",
+          "durationSeconds": 2204,
+          "version": "3.4"
+        },
+        {
+          "page": 76,
+          "title": "【3.4.主】驶向尚未点亮之星11我们选择的天空5那人短暂驻留",
+          "durationSeconds": 128,
+          "version": "3.4"
+        },
+        {
+          "page": 77,
+          "title": "【3.5.主】新生之作，将涌于渊1山雨欲来风满楼1",
+          "durationSeconds": 1296,
+          "version": "3.5"
+        },
+        {
+          "page": 78,
+          "title": "【3.5.主】新生之作，将涌于渊1山雨欲来风满楼2",
+          "durationSeconds": 2032,
+          "version": "3.5"
+        },
+        {
+          "page": 79,
+          "title": "【3.5.主】新生之作，将涌于渊1山雨欲来风满楼3",
+          "durationSeconds": 1442,
+          "version": "3.5"
+        },
+        {
+          "page": 80,
+          "title": "【3.5.主】新生之作，将涌于渊1山雨欲来风满楼4",
+          "durationSeconds": 1419,
+          "version": "3.5"
+        },
+        {
+          "page": 81,
+          "title": "【3.5.主】新生之作，将涌于渊1山雨欲来风满楼5",
+          "durationSeconds": 2499,
+          "version": "3.5"
+        },
+        {
+          "page": 82,
+          "title": "【3.5.主】新生之作，将涌于渊2玄翎振壑定澜音1",
+          "durationSeconds": 2444,
+          "version": "3.5"
+        },
+        {
+          "page": 83,
+          "title": "【3.5.主】新生之作，将涌于渊2玄翎振壑定澜音2",
+          "durationSeconds": 1799,
+          "version": "3.5"
+        },
+        {
+          "page": 84,
+          "title": "【3.5.主】新生之作，将涌于渊2玄翎振壑定澜音3",
+          "durationSeconds": 1821,
+          "version": "3.5"
+        },
+        {
+          "page": 85,
+          "title": "【3.5.主】新生之作，将涌于渊2玄翎振壑定澜音4",
+          "durationSeconds": 1860,
+          "version": "3.5"
+        },
+        {
+          "page": 86,
+          "title": "【3.5.主】新生之作，将涌于渊2玄翎振壑定澜音5",
+          "durationSeconds": 1188,
+          "version": "3.5"
+        },
+        {
+          "page": 87,
+          "title": "【3.5.主】新生之作，将涌于渊3灵籁之契冥相因",
+          "durationSeconds": 1373,
+          "version": "3.5"
+        },
+        {
+          "page": 88,
+          "title": "【3.6.主】新生之作，将涌于渊4烟云幽远心剑鸣1",
+          "durationSeconds": 1261,
+          "version": "3.6"
+        },
+        {
+          "page": 89,
+          "title": "【3.6.主】新生之作，将涌于渊4烟云幽远心剑鸣2",
+          "durationSeconds": 1605,
+          "version": "3.6"
+        },
+        {
+          "page": 90,
+          "title": "【3.6.主】新生之作，将涌于渊4烟云幽远心剑鸣3",
+          "durationSeconds": 1685,
+          "version": "3.6"
+        },
+        {
+          "page": 91,
+          "title": "【3.6.主】新生之作，将涌于渊4烟云幽远心剑鸣4",
+          "durationSeconds": 1876,
+          "version": "3.6"
+        },
+        {
+          "page": 92,
+          "title": "【3.6.主】新生之作，将涌于渊4烟云幽远心剑鸣5",
+          "durationSeconds": 1586,
+          "version": "3.6"
+        },
+        {
+          "page": 93,
+          "title": "【3.6.主】新生之作，将涌于渊4烟云幽远心剑鸣6",
+          "durationSeconds": 1493,
+          "version": "3.6"
+        },
+        {
+          "page": 94,
+          "title": "【3.6.主】新生之作，将涌于渊4烟云幽远心剑鸣7",
+          "durationSeconds": 1584,
+          "version": "3.6"
+        },
+        {
+          "page": 95,
+          "title": "【3.6.主】新生之作，将涌于渊4烟云幽远心剑鸣8",
+          "durationSeconds": 1773,
+          "version": "3.6"
+        },
+        {
+          "page": 96,
+          "title": "【3.6.主】新生之作，将涌于渊4烟云幽远心剑鸣9",
+          "durationSeconds": 1312,
+          "version": "3.6"
+        },
+        {
+          "page": 97,
+          "title": "【3.6.主】新生之作，将涌于渊4烟云幽远心剑鸣10",
+          "durationSeconds": 1500,
+          "version": "3.6"
+        },
+        {
+          "page": 98,
+          "title": "【3.6.主】新生之作，将涌于渊5幽客销残声",
+          "durationSeconds": 957,
+          "version": "3.6"
+        },
+        {
+          "page": 99,
+          "title": "【3.7.主】新生之作，将涌于渊6梦枢心相由心生1",
+          "durationSeconds": 1407,
+          "version": "3.7"
+        },
+        {
+          "page": 100,
+          "title": "【3.7.主】新生之作，将涌于渊6梦枢心相由心生2",
+          "durationSeconds": 2028,
+          "version": "3.7"
+        },
+        {
+          "page": 101,
+          "title": "【3.7.主】新生之作，将涌于渊6梦枢心相由心生3",
+          "durationSeconds": 1859,
+          "version": "3.7"
+        },
+        {
+          "page": 102,
+          "title": "【3.7.主】新生之作，将涌于渊6梦枢心相由心生4",
+          "durationSeconds": 1566,
+          "version": "3.7"
+        },
+        {
+          "page": 103,
+          "title": "【3.7.主】新生之作，将涌于渊6梦枢心相由心生5",
+          "durationSeconds": 1209,
+          "version": "3.7"
+        },
+        {
+          "page": 104,
+          "title": "【3.7.主】新生之作，将涌于渊6梦枢心相由心生6",
+          "durationSeconds": 1494,
+          "version": "3.7"
+        },
+        {
+          "page": 105,
+          "title": "【3.7.主】新生之作，将涌于渊6梦枢心相由心生7",
+          "durationSeconds": 2585,
+          "version": "3.7"
+        },
+        {
+          "page": 106,
+          "title": "【3.7.主】新生之作，将涌于渊6梦枢心相由心生8",
+          "durationSeconds": 913,
+          "version": "3.7"
+        },
+        {
+          "page": 107,
+          "title": "【3.7.主】新生之作，将涌于渊6梦枢心相由心生9",
+          "durationSeconds": 1812,
+          "version": "3.7"
+        },
+        {
+          "page": 108,
+          "title": "【3.7.主】新生之作，将涌于渊6梦枢心相由心生10",
+          "durationSeconds": 1354,
+          "version": "3.7"
+        },
+        {
+          "page": 109,
+          "title": "【3.7.奇谭】璇心如月寄尘情1",
+          "durationSeconds": 225,
+          "version": "3.7"
+        },
+        {
+          "page": 110,
+          "title": "【3.7.危行】朝朝何年月",
+          "durationSeconds": 1885,
+          "version": "3.7"
+        },
+        {
+          "page": 111,
+          "title": "【3.7.危局】匣中奇谭•苍狐记",
+          "durationSeconds": 1284,
+          "version": "3.7"
+        },
+        {
+          "page": 112,
+          "title": "【3.7.奇谭】璇心如月寄尘情2",
+          "durationSeconds": 1314,
+          "version": "3.7"
+        },
+        {
+          "page": 113,
+          "title": "【3.7.奇谭】璇心如月寄尘情3",
+          "durationSeconds": 1896,
+          "version": "3.7"
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ecete1E7p",
+      "title": "【鸣潮1.2】追月节主题活动「月华如愿」全剧情流程（已完结）",
+      "uploader": "caferia",
+      "url": "https://www.bilibili.com/video/BV1ecete1E7p/",
+      "pages": [
+        {
+          "page": 1,
+          "title": "月从今夜满",
+          "durationSeconds": 1086,
+          "version": "1.2"
+        },
+        {
+          "page": 2,
+          "title": "月下祈愿其一 · 倾听之音",
+          "durationSeconds": 1682,
+          "version": "1.2"
+        },
+        {
+          "page": 3,
+          "title": "月下祈愿其二 · 老人与约定",
+          "durationSeconds": 970,
+          "version": "1.2"
+        },
+        {
+          "page": 4,
+          "title": "月下祈愿其三 · 幼小的英雄梦",
+          "durationSeconds": 721,
+          "version": "1.2"
+        },
+        {
+          "page": 5,
+          "title": "月下祈愿其四 · 负手之歌",
+          "durationSeconds": 2937,
+          "version": "1.2"
+        },
+        {
+          "page": 6,
+          "title": "愿逐月华",
+          "durationSeconds": 595,
+          "version": "1.2"
+        },
+        {
+          "page": 7,
+          "title": "我邀朗月",
+          "durationSeconds": 444,
+          "version": "1.2"
+        },
+        {
+          "page": 8,
+          "title": "经营轶闻 | 片刻闲暇",
+          "durationSeconds": 264,
+          "version": "1.2"
+        },
+        {
+          "page": 9,
+          "title": "经营轶闻 | 愿此景永留你心",
+          "durationSeconds": 214,
+          "version": "1.2"
+        },
+        {
+          "page": 10,
+          "title": "经营轶闻 | 终极枪客大挑战",
+          "durationSeconds": 213,
+          "version": "1.2"
+        },
+        {
+          "page": 11,
+          "title": "经营轶闻 | 行动代号：月下双雄",
+          "durationSeconds": 435,
+          "version": "1.2"
+        },
+        {
+          "page": 12,
+          "title": "经营轶闻 | 安可的火热大冒险！",
+          "durationSeconds": 259,
+          "version": "1.2"
+        },
+        {
+          "page": 13,
+          "title": "经营轶闻 | 难解谜题",
+          "durationSeconds": 279,
+          "version": "1.2"
+        },
+        {
+          "page": 14,
+          "title": "经营轶闻 | 待得团圆时",
+          "durationSeconds": 177,
+          "version": "1.2"
+        },
+        {
+          "page": 15,
+          "title": "经营轶闻 | 同望当空月",
+          "durationSeconds": 117,
+          "version": "1.2"
+        },
+        {
+          "page": 16,
+          "title": "经营轶闻 | 秘传占术",
+          "durationSeconds": 391,
+          "version": "1.2"
+        },
+        {
+          "page": 17,
+          "title": "经营轶闻 | 因何而战",
+          "durationSeconds": 301,
+          "version": "1.2"
+        },
+        {
+          "page": 18,
+          "title": "经营轶闻 | 难忘今时月",
+          "durationSeconds": 221,
+          "version": "1.2"
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "1.0": {
+      "seconds": 25764,
+      "parts": 11,
+      "display": "7小时09分"
+    },
+    "1.1": {
+      "seconds": 11908,
+      "parts": 4,
+      "display": "3小时18分"
+    },
+    "1.2": {
+      "seconds": 15576,
+      "parts": 19,
+      "display": "4小时20分"
+    },
+    "1.3": {
+      "seconds": 9400,
+      "parts": 3,
+      "display": "2小时37分"
+    },
+    "1.4": {
+      "seconds": 9583,
+      "parts": 3,
+      "display": "2小时40分"
+    },
+    "2.0": {
+      "seconds": 26606,
+      "parts": 9,
+      "display": "7小时23分"
+    },
+    "2.1": {
+      "seconds": 8388,
+      "parts": 3,
+      "display": "2小时20分"
+    },
+    "2.2": {
+      "seconds": 12686,
+      "parts": 4,
+      "display": "3小时31分"
+    },
+    "2.3": {
+      "seconds": 9075,
+      "parts": 3,
+      "display": "2小时31分"
+    },
+    "2.4": {
+      "seconds": 11261,
+      "parts": 4,
+      "display": "3小时08分"
+    },
+    "2.5": {
+      "seconds": 9375,
+      "parts": 4,
+      "display": "2小时36分"
+    },
+    "2.6": {
+      "seconds": 16931,
+      "parts": 6,
+      "display": "4小时42分"
+    },
+    "2.7": {
+      "seconds": 20789,
+      "parts": 8,
+      "display": "5小时46分"
+    },
+    "2.8": {
+      "seconds": 9710,
+      "parts": 3,
+      "display": "2小时42分"
+    },
+    "3.0": {
+      "seconds": 20069,
+      "parts": 13,
+      "display": "5小时34分"
+    },
+    "3.1": {
+      "seconds": 23212,
+      "parts": 17,
+      "display": "6小时27分"
+    },
+    "3.2": {
+      "seconds": 22297,
+      "parts": 20,
+      "display": "6小时12分"
+    },
+    "3.3": {
+      "seconds": 20143,
+      "parts": 14,
+      "display": "5小时36分"
+    },
+    "3.4": {
+      "seconds": 17438,
+      "parts": 12,
+      "display": "4小时51分"
+    },
+    "3.5": {
+      "seconds": 19173,
+      "parts": 11,
+      "display": "5小时20分"
+    },
+    "3.6": {
+      "seconds": 16632,
+      "parts": 11,
+      "display": "4小时37分"
+    },
+    "3.7": {
+      "seconds": 22831,
+      "parts": 15,
+      "display": "6小时21分"
+    }
+  },
+  "totalSeconds": 358847,
+  "totalDisplay": "99小时41分"
+}
