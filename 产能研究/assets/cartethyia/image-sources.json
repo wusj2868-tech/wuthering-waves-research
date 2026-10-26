@@ -1,0 +1,90 @@
+{
+  "source": {
+    "title": "《鸣潮》共鸣者战斗演示 | 卡提希娅",
+    "publisher": "鸣潮（官方）",
+    "url": "https://www.bilibili.com/video/BV1hKT2znE6L/",
+    "bvid": "BV1hKT2znE6L",
+    "part": 1
+  },
+  "extraction": {
+    "date": "2026-10-26",
+    "method": "ffmpeg exact-timestamp video frame extraction; no AI generation or upscaling",
+    "imageWidth": 1920,
+    "imageHeight": 886
+  },
+  "images": [
+    {
+      "file": "cartethyia-form.jpg",
+      "timestampSeconds": 13.5,
+      "kind": "卡提希娅形态"
+    },
+    {
+      "file": "fleurdelys-form.jpg",
+      "timestampSeconds": 52,
+      "kind": "芙露德莉斯形态"
+    },
+    {
+      "file": "sword-shadows.jpg",
+      "timestampSeconds": 30,
+      "kind": "小卡剑影与地面动作"
+    },
+    {
+      "file": "plunge.jpg",
+      "timestampSeconds": 39.8,
+      "kind": "小卡下落攻击"
+    },
+    {
+      "file": "aerial-swords.jpg",
+      "timestampSeconds": 57,
+      "kind": "大卡空中战斗"
+    },
+    {
+      "file": "liberation.jpg",
+      "timestampSeconds": 87.5,
+      "kind": "大卡终结解放"
+    }
+  ],
+  "countingMethod": {
+    "metric": "技能文本拆分的战斗动作条目；非去重动画资产数",
+    "cartethyia": [
+      4,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "fleurdelys": [
+      5,
+      2,
+      3,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "categories": [
+      "地面普攻各段",
+      "重击与强化重击",
+      "空中攻击各段",
+      "上挑攻击",
+      "闪避反击",
+      "共鸣技能各招",
+      "变奏",
+      "满决意终结"
+    ],
+    "initialTransformation": 1,
+    "total": 26,
+    "exclude": [
+      "移动与待机等非战斗动画",
+      "复用已有攻击的形态切换",
+      "下落回收剑影0/1/2/3条件分支的重复计数",
+      "多段伤害命中",
+      "纯增益延奏",
+      "后续版本通用系统动作"
+    ]
+  }
+}

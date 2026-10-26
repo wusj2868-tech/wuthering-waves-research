@@ -232,18 +232,217 @@ href="https://www.bilibili.com/video/BV1qT421a7Hf/">B站机制解析</a>、<a
 href="https://news.17173.com/z/mingchao/content/07192024/180118981.shtml">17173
 输出轴说明</a></td>
 </tr>
+</tbody>
+</table>
+<hr />
+<h3 id="13-卡提希娅双形态与动作模组专题">1.3
+卡提希娅：双形态与动作模组专题</h3>
+<div class="character-portraits">
+<figure>
+<a href="assets/cartethyia/cartethyia-form.jpg" target="_blank"><img src="assets/cartethyia/cartethyia-form.jpg" alt="卡提希娅形态的官方演示近景" width="1920" height="886"></a>
+<figcaption><strong>卡提希娅｜流浪骑士</strong><span>4 段地面普攻 · 剑影生成与回收 · 下落攻击</span></figcaption>
+</figure>
+<figure>
+<a href="assets/cartethyia/fleurdelys-form.jpg" target="_blank"><img src="assets/cartethyia/fleurdelys-form.jpg" alt="芙露德莉斯显化形态的官方演示近景" width="1920" height="886"></a>
+<figcaption><strong>芙露德莉斯｜显化形态</strong><span>5 段地面普攻 · 3 段空中攻击 · 决意终结</span></figcaption>
+</figure>
+</div>
+
+<div class="character-metrics">
+<div><strong>2</strong><span>套形态战斗体系</span></div>
+<div><strong>9</strong><span>小卡战斗动作条目</span></div>
+<div><strong>16</strong><span>大卡战斗动作条目</span></div>
+<div><strong>1</strong><span>首次变身动作条目</span></div>
+</div>
+
+<p><strong>本轮拆解结论：两套形态战斗体系，按技能说明可拆成 26
+个战斗动作条目（9 + 16 + 1）。</strong>
+每段连击和有独立输入/名称的招式各记一项；计数依据是 Encore
+技能文本与官方战斗演示，属于本报告的可复算拆分。B
+站检索找到了动作鉴赏与双形态测评，但没有找到能验证的“去重动画文件总数”；本轮没有解包客户端，因此
+<strong>26 不能表述为 26 个引擎动画资产或 26
+套动作模组</strong>。待机、移动、受击、转身、收刀、表情与剧情动画也未计入这
+26 项。</p>
+<h4 id="四张代表性动作图">四张代表性动作图</h4>
+<div class="character-actions">
+<figure>
+<a href="assets/cartethyia/sword-shadows.jpg" target="_blank"><img src="assets/cartethyia/sword-shadows.jpg" alt="卡提希娅战斗中的剑影与地面动作" loading="lazy" width="1920" height="886"></a>
+<figcaption><strong>01 · 小卡：剑影与地面动作</strong><span>可留场的剑影参与后续回收；动作与场景实体联动。官方演示 00:30。</span></figcaption>
+</figure>
+<figure>
+<a href="assets/cartethyia/plunge.jpg" target="_blank"><img src="assets/cartethyia/plunge.jpg" alt="卡提希娅下落攻击落地时的剑影与几何光效" loading="lazy" width="1920" height="886"></a>
+<figcaption><strong>02 · 小卡：下落攻击与剑影回收</strong><span>空中启动、落地表现和回收剑影共同形成一个动作流程。官方演示 00:39.8。</span></figcaption>
+</figure>
+<figure>
+<a href="assets/cartethyia/aerial-swords.jpg" target="_blank"><img src="assets/cartethyia/aerial-swords.jpg" alt="芙露德莉斯御使多道剑影的空中战斗画面" loading="lazy" width="1920" height="886"></a>
+<figcaption><strong>03 · 大卡：空中战斗与御剑演出</strong><span>变身后启用新的攻击体系；空中连段可与共鸣技能衔接。官方演示 00:57。</span></figcaption>
+</figure>
+<figure>
+<a href="assets/cartethyia/liberation.jpg" target="_blank"><img src="assets/cartethyia/liberation.jpg" alt="芙露德莉斯共鸣解放的巨剑与大范围斩击演出" loading="lazy" width="1920" height="886"></a>
+<figcaption><strong>04 · 大卡：终结解放</strong><span>「看潮怒风哮之刃」独立镜头、巨剑与直线斩击表现。官方演示 01:27.5。</span></figcaption>
+</figure>
+</div>
+
+<p>图片均为库洛官方 <a
+href="https://www.bilibili.com/video/BV1hKT2znE6L/">《共鸣者战斗演示｜卡提希娅》</a>
+的研究用节选，非二创设定图；上方形态图分别取自 00:13.5 和
+00:52，点击可查看 1920 × 886
+原图。画面用于展示动作风格；具体招式数量按下表的技能文本核算。</p>
+<h4 id="26-个动作条目是怎样拆出来的">26 个动作条目是怎样拆出来的</h4>
+<table>
+<thead>
 <tr>
-<td><strong>卡提希娅（2.4）</strong></td>
-<td>常态“卡提希娅”与解放后“芙露德莉斯”双形态；两套前台攻击表现；生成/回收“剑之影”场景实体；同时维护剑影与“决意”资源；大招以生命值代价切换形态，满资源释放终结技并结算风蚀；另有水上/短时空中移动</td>
-<td>双形态不是单纯换皮：需要动作、留场物、两类资源、形态专属技能、异常结算、UI、终结镜头与大世界探索能力共同制作、平衡和测试</td>
-<td><a
-href="https://www.bilibili.com/video/BV1c1TozeExo/">B站双形态测评</a>、<a
-href="https://www.bilibili.com/video/BV1wyTozNEC3">B站攻略拆解</a>、<a
-href="https://wiki.biligame.com/wutheringwaves/%E5%85%B1%E9%B8%A3%E8%80%85/%E5%8D%A1%E6%8F%90%E5%B8%8C%E5%A8%85">BWiki
-技能条目</a></td>
+<th>动作类别</th>
+<th>卡提希娅形态</th>
+<th style="text-align: right;">数量</th>
+<th>芙露德莉斯形态</th>
+<th style="text-align: right;">数量</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>地面普攻</td>
+<td>第 1、2、3、4 段</td>
+<td style="text-align: right;">4</td>
+<td>第 1、2、3、4、5 段</td>
+<td style="text-align: right;">5</td>
+</tr>
+<tr>
+<td>重击</td>
+<td>重击 1 种（可空中施放）</td>
+<td style="text-align: right;">1</td>
+<td>重击、强化重击</td>
+<td style="text-align: right;">2</td>
+</tr>
+<tr>
+<td>空中攻击</td>
+<td>下落攻击，基础计 1 种</td>
+<td style="text-align: right;">1</td>
+<td>空中攻击第 1、2、3 段</td>
+<td style="text-align: right;">3</td>
+</tr>
+<tr>
+<td>上挑攻击</td>
+<td>—</td>
+<td style="text-align: right;">0</td>
+<td>地面按跳跃触发的上挑攻击</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr>
+<td>闪避反击</td>
+<td>小卡闪避反击</td>
+<td style="text-align: right;">1</td>
+<td>大卡闪避反击，可接普攻第 4 段</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr>
+<td>共鸣技能 E</td>
+<td>「此剑以人之名」</td>
+<td style="text-align: right;">1</td>
+<td>「此剑为潮浪之意」「凭风斩浪破敌」</td>
+<td style="text-align: right;">2</td>
+</tr>
+<tr>
+<td>变奏入场</td>
+<td>「此剑，为潮水的过去」</td>
+<td style="text-align: right;">1</td>
+<td>「此剑，为自由的未来」</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr>
+<td>满决意终结技</td>
+<td>—</td>
+<td style="text-align: right;">0</td>
+<td>「看潮怒风哮之刃」</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr>
+<td><strong>各形态小计</strong></td>
+<td><strong>4 + 1 + 1 + 0 + 1 + 1 + 1 + 0</strong></td>
+<td style="text-align: right;"><strong>9</strong></td>
+<td><strong>5 + 2 + 3 + 1 + 1 + 2 + 1 + 1</strong></td>
+<td style="text-align: right;"><strong>16</strong></td>
 </tr>
 </tbody>
 </table>
+<p>另计首次变身「听骑士从心祈愿」 <strong>1 项</strong>，合计 <strong>26
+项</strong>。首次变身含角色外观切换、镜头和状态进入；显化期间再次切换形态会调用已列入的小卡/大卡普攻第
+2 段或空中攻击，故不重复增加动作数量。</p>
+<p><strong>分支处理规则：</strong> 小卡下落攻击依回收 0/1/2/3
+种剑影出现不同的形态/伤害表现。上表将它合并为 1
+个基础动作；若研究“技能表现分支”，可另外记录 3
+个非零剑影条件分支，但不能据此认定新增了 3
+段独立骨骼动画。同一招式的多次命中、地面/空中皆可释放、倍率变化也不自动扩增计数。延奏为队伍增益，不作为一段新的前台攻击计数。</p>
+<h4 id="双形态具体增加了哪些制作量">双形态具体增加了哪些制作量</h4>
+<table>
+<thead>
+<tr>
+<th>层面</th>
+<th>卡提希娅</th>
+<th>芙露德莉斯</th>
+<th>产能观察</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>角色外观</td>
+<td>小卡体型、服装与持剑表现</td>
+<td>大卡体型、长发与显化后的服装/剑影表现</td>
+<td>两种可操作形态需要分别验证动作适配、布料/头发和穿模表现；实际骨架复用情况未解包确认</td>
+</tr>
+<tr>
+<td>战斗动作</td>
+<td>4 段普攻、重击、反击、下落、E 与变奏</td>
+<td>5 段普攻、3 段空中攻击、重击分支、上挑、两段 E 与变奏</td>
+<td>大卡的招式与空地衔接较丰富；不能只按共用的技能按钮数量估算</td>
+</tr>
+<tr>
+<td>场景实体</td>
+<td>普攻第 4 段生成神权剑影；重击/变奏生成异权剑影；E
+生成人权剑影；下落时回收</td>
+<td>剑影增益改变控制、风蚀结算与范围目标的效应层数同步</td>
+<td>三种剑影既有画面表现，也有存在时间、回收与增益传递逻辑</td>
+</tr>
+<tr>
+<td>状态与资源</td>
+<td>共鸣能量达到条件后可首次变身；回收剑影取得三类增益</td>
+<td>「显化」基础持续 12 秒；攻击积攒「决意」，120 点开启终结技</td>
+<td>共鸣能量、显化计时、决意、剑影增益和风蚀层数共同决定技能分支</td>
+</tr>
+<tr>
+<td>解放与恢复</td>
+<td>首次变身后生命降至上限 50%；低于 50% 时不消耗生命</td>
+<td>终结时清空决意、退出显化、回复 50%
+生命上限，依据敌人风蚀层数放大伤害并清除层数</td>
+<td>两个解放节点分别承担变身与收束，需要镜头、状态和伤害/治疗逻辑同步</td>
+</tr>
+<tr>
+<td>探索能力</td>
+<td>负责任务对话、带动作的场景交互和探索工具使用</td>
+<td>可在水面行走；步行模式可由悬崖踏入空中缓慢行走，持续耗耐力</td>
+<td>双形态延伸至大世界；遇到上述交互会切回小卡，需要处理形态与交互的衔接</td>
+</tr>
+</tbody>
+</table>
+<p>从产能角度，可将她记为 <strong>1 个新角色、2 套形态战斗体系、26
+个可复算战斗动作条目</strong>，并另外记录三类剑影、形态切换、两种解放表现和专有探索能力；这个拆分不能直接换算成开发人月或“两名角色”的制作成本。</p>
+<h4 id="来源与复核边界">来源与复核边界</h4>
+<ul>
+<li><a
+href="https://www.bilibili.com/video/BV1hKT2znE6L/">库洛官方战斗演示</a>：用于六张配图、形态辨认与动作风格核对。</li>
+<li><a
+href="https://www.bilibili.com/video/BV19NKJzGE1R/">《共鸣者观察》卡提希娅动作＆美术鉴赏</a>：特邀研究员「叫我棉被」合作制作，栏目注明不完全代表官方观点；用于动作与美术鉴赏参考，未将其当作动画数量审计。</li>
+<li><a
+href="https://www.bilibili.com/video/BV18eTfzSE3a/">不乐得：卡提希娅堆料盘点</a>
+与 <a
+href="https://www.bilibili.com/video/BV1c1TozeExo/">双形态综合测评</a>：B
+站社区检索线索，用于对照玩家关注点，未引用未经验证的内部资产数量。</li>
+<li><a href="https://www.encore.moe/character/1409">Encore 角色页</a>及
+<a
+href="https://api-v2.encore.moe/api/zh-Hans/character/1409">中文技能数据</a>：逐项核对普攻段数、空中段数、强化重击、上挑、双
+E、双变奏、变身与终结；本地保留了 <a
+href="assets/cartethyia/skill-source.json">本次技能文本快照</a>。形态下落的条件分支合并规则见上表。</li>
+</ul>
 <hr />
 <h2 id="2-剧情潮汐主线时长与任务拆分">2.
 剧情：潮汐主线时长与任务拆分</h2>
