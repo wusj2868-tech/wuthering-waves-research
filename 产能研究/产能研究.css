@@ -62,6 +62,36 @@ blockquote {
 #TOC ul { margin: 8px 0 0; padding-left: 22px; }
 #TOC ul ul { margin: 4px 0; }
 
+.version-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin: 18px 0 26px;
+}
+.version-card {
+  min-width: 0;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+}
+.version-card h4 {
+  margin: 0;
+  padding: 11px 13px;
+  color: #163e57;
+  background: var(--accent-soft);
+}
+.version-card table { margin: 0; font-size: 12px; }
+.version-card th, .version-card td { padding: 7px 8px; }
+.version-card th:nth-child(1) { width: 12%; }
+.version-card th:nth-child(2) { width: 64%; }
+.version-card th:nth-child(3), .version-card th:nth-child(4),
+.version-card td:nth-child(3), .version-card td:nth-child(4) {
+  width: 12%;
+  text-align: center;
+  white-space: nowrap;
+}
+
 table {
   width: 100%;
   margin: 16px 0 26px;
@@ -82,4 +112,5 @@ code { padding: 1px 5px; border-radius: 3px; background: #edf1f4; }
   h1 { font-size: 26px; }
   h2 { font-size: 21px; }
   table { display: block; overflow-x: auto; white-space: normal; }
+  .version-grid { grid-template-columns: 1fr; }
 }
